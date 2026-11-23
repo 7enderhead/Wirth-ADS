@@ -1,0 +1,21 @@
+# Build output
+/build/
+lib/
+*.o
+*.ppu
+*.a
+*.res
+*.compiled
+*.or
+*.or_
+*.ppl
+
+# Lazarus session/backup files
+*.lps
+*.bak
+backup/
+*.tmp
+
+# Editor / OS noise
+.DS_Store
+*.swp
